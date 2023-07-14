@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "productName": "Japanese Banana",
+      "category": "Banana",
+      "price": "123",
+      "freshness": "Brand New",
+      "date": "2023-01-25T18:00:00.000Z",
+      "comment": "",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
